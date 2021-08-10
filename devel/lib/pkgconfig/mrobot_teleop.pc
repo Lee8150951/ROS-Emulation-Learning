@@ -1,0 +1,8 @@
+prefix=/home/jacob/Desktop/URDF-Model/devel
+
+Name: mrobot_teleop
+Description: Description of mrobot_teleop
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jacob/Desktop/URDF-Model/devel/lib 
+Requires: 

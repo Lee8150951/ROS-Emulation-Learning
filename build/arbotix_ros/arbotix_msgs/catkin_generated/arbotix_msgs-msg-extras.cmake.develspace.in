@@ -1,0 +1,2 @@
+set(arbotix_msgs_MESSAGE_FILES "/home/jacob/Desktop/URDF-Model/src/arbotix_ros/arbotix_msgs/msg/Analog.msg;/home/jacob/Desktop/URDF-Model/src/arbotix_ros/arbotix_msgs/msg/Digital.msg")
+set(arbotix_msgs_SERVICE_FILES "/home/jacob/Desktop/URDF-Model/src/arbotix_ros/arbotix_msgs/srv/Enable.srv;/home/jacob/Desktop/URDF-Model/src/arbotix_ros/arbotix_msgs/srv/Relax.srv;/home/jacob/Desktop/URDF-Model/src/arbotix_ros/arbotix_msgs/srv/SetupChannel.srv;/home/jacob/Desktop/URDF-Model/src/arbotix_ros/arbotix_msgs/srv/SetSpeed.srv")

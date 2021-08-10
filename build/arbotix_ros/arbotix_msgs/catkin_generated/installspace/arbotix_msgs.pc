@@ -1,0 +1,8 @@
+prefix=/home/jacob/Desktop/URDF-Model/install
+
+Name: arbotix_msgs
+Description: Description of arbotix_msgs
+Version: 0.10.0
+Cflags: -I/home/jacob/Desktop/URDF-Model/install/include
+Libs: -L/home/jacob/Desktop/URDF-Model/install/lib 
+Requires: message_runtime std_msgs

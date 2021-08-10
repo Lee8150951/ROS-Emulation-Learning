@@ -1,0 +1,8 @@
+prefix=/home/jacob/Desktop/URDF-Model/install
+
+Name: arbotix_controllers
+Description: Description of arbotix_controllers
+Version: 0.10.0
+Cflags: 
+Libs: -L/home/jacob/Desktop/URDF-Model/install/lib 
+Requires: 

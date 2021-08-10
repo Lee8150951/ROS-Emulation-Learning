@@ -1,0 +1,8 @@
+prefix=/home/jacob/Desktop/URDF-Model/install
+
+Name: arbotix_sensors
+Description: Description of arbotix_sensors
+Version: 0.10.0
+Cflags: 
+Libs: -L/home/jacob/Desktop/URDF-Model/install/lib 
+Requires: 
